@@ -8,13 +8,13 @@ title: TestPost
 
 Markdown is a simple markup language with native
 support from github
-§ Frequently used for project documentation (typically a
+ Frequently used for project documentation (typically a
 readme.md)
-§ Try it online at dillinger.io
-§ # for Headings (and ## etc.)
-§ **bold** and *italic*
+ Try it online at dillinger.io
+ # for Headings (and ## etc.)
+**bold** and *italic*
 
-§ Use backticks `for inline code`, or the ``` as follows cue
+ Use backticks `for inline code`, or the ``` as follows cue
 syntax highlighting:
 ``` python
 import this
